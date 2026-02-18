@@ -1,8 +1,8 @@
-# SciPy for Python & AI/ML
+# SciPy for Python
 
-A comprehensive collection of Jupyter notebooks covering SciPy topics essential for Python programming, Artificial Intelligence, and Machine Learning.
+A collection of Jupyter notebooks covering SciPy topics essential for Python programming.
 
-## 📚 Notebook Collection
+## Notebook Collection
 
 | # | Notebook | Topics | Key Applications |
 |---|----------|--------|------------------|
@@ -17,7 +17,7 @@ A comprehensive collection of Jupyter notebooks covering SciPy topics essential 
 | 8 | [08_Spatial_Data.ipynb](./08_Spatial_Data.ipynb) | Distance metrics, KD-trees, Voronoi | KNN, clustering, nearest neighbor search |
 | 9 | [09_Image_Processing.ipynb](./09_Image_Processing.ipynb) | Filters, morphology, measurements | Computer vision, medical imaging, segmentation |
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -35,7 +35,7 @@ pip install numpy scipy matplotlib jupyter
    ```
 4. Open any notebook and run cells sequentially
 
-## 📖 Topics Covered
+##  Topics Covered
 
 ### 1. Linear Algebra (`scipy.linalg`)
 - LU, QR, Cholesky decompositions
@@ -97,7 +97,7 @@ pip install numpy scipy matplotlib jupyter
 - Object measurements
 - **ML Applications**: Computer vision preprocessing, medical image analysis
 
-## 🎯 Real-World Examples
+##  Real-World Examples
 
 Each notebook contains multiple real-world examples:
 
@@ -110,7 +110,7 @@ Each notebook contains multiple real-world examples:
 | **NLP** | Document-term matrices, TF-IDF vectorization |
 | **Computer Vision** | Edge detection, image segmentation |
 
-## 📊 SciPy Module Reference
+##  SciPy Module Reference
 
 ```
 scipy/
@@ -126,17 +126,13 @@ scipy/
 └── special         # Special mathematical functions
 ```
 
-## 🔗 Additional Resources
+##  Additional Resources
 
 - [SciPy Official Documentation](https://docs.scipy.org/doc/scipy/)
 - [SciPy User Guide](https://docs.scipy.org/doc/scipy/tutorial/index.html)
 - [NumPy Documentation](https://numpy.org/doc/)
 - [SciPy Lecture Notes](https://scipy-lectures.org/)
 
-## 📝 License
-
-This collection is provided for educational purposes. Feel free to use and modify for your learning.
-
 ---
 
-**Happy Learning! 🎓**
+**Happy Learning!**
